@@ -1,0 +1,31 @@
+#header {
+background-color: slategray;
+padding: 30px;
+
+}
+
+#footer {
+background-color: lightgray;
+padding-left:
+}
+
+body
+  background-color:black
+
+#content {
+     padding: 0%;
+     background-color: khaki;
+}
+
+
+table, tr, td, th{
+    border: inset black 1px;
+}
+
+.header-title {
+    float: left;
+}
+
+.header-image {
+    float: left;
+}
